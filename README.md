@@ -10,10 +10,10 @@ https://github.com/matyalatte/UE4-DDS-Tools<br>
 Pal-Windows.pak文件可以通过UnrealPakViewer导出<br>
 <i>The Pal-Windows.pak file can be exported through UnrealPakViewer.</i><br>
 <br>
-<b>解包教程 / Detailed Tutorial (Chinese)</b><br>
+## 解包教程 / Detailed Tutorial (Chinese)
 https://ruisan.blog.jp/archives/23713491.html
 
-### github bat使用方法 / Usage
+## github bat使用方法 / Usage
 export_as_png.bat文件放入UE4-DDS-Tools文件夹里；<br>
 <i>The export_as_png.bat file into the UE4-DDS-Tools folder；</i><br>
 <br>
