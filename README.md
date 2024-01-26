@@ -8,7 +8,7 @@ https://github.com/jashking/UnrealPakViewer<br>
 https://github.com/matyalatte/UE4-DDS-Tools<br>
 <br>
 Pal-Windows.pak文件可以通过UnrealPakViewer导出<br>
-<i>The Pal-Windows.pak file can be exported through UnrealPakViewer》</i><br>
+<i>The Pal-Windows.pak file can be exported through UnrealPakViewer</i><br>
 <br>
 <b>解包教程 / Detailed Tutorial (Chinese)</b><br>
 https://ruisan.blog.jp/archives/23713491.html
