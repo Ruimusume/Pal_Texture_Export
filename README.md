@@ -19,3 +19,4 @@ uasset to png Batch.bat也放入UE4-DDS-Tools文件夹里，通过文本编辑se
 <br>
 *这个bat含有/r遍历指定目录的全部子目录，建议不要一下子去导出整个Texture文件夹，不然会卡死。<br>
 <i>*This bat contains/r to traverse all subdirectories of the specified directory. It is recommended not to export the entire Texture folder, otherwise the computer will not respond.</i><br>
+<div align="center"><img src="https://livedoor.blogimg.jp/ruimusume/imgs/7/8/78e79d0d.png"></div>
